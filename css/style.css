@@ -1,6 +1,8 @@
 .header-background {
-  width: 50%;
+  width: 500px;
+  height: 100px;
   margin:50px auto;
-  background-image: url('img/pattern.png');
+  background-image: url('../img/pattern.png');
+  background-size: cover;
 
 }
